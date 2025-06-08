@@ -56,11 +56,14 @@ Un progetto DIY basato su **Arduino Uno**, pensato per creare una **serratura el
 
 - Inserisci `*#*#` → la password torna a `"2612"`
 
-## 📂 File inclusi
+## 📁 File inclusi
 
 - `cassaforte.ino` – sketch completo
+- `wokwi/diagram.json` – schema Wokwi del circuito
 - `media/` – immagini del montaggio e prototipo
-- `docs/` – eventuale `diagram.json` Wokwi
+- `docs/` – documentazione aggiuntiva
+
+👉 [Simula su Wokwi](https://wokwi.com/projects/433223273720897537)
 
 ---
 
